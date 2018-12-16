@@ -1,0 +1,72 @@
+body{
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+}
+
+.body{
+    padding: 60px 45px;
+}
+
+.hide-siliguri{
+    font-family: 'Hind Siliguri', Helvetica, Arial, sans-serif;
+}
+
+.title{
+    font-size: 2em;
+    margin-top: 2;
+}
+
+.title2{
+    font-size: 1.5em;
+    margin-top: 2;
+}
+
+p{
+    font-size: 1em;
+}
+
+.main-header{
+    background-color: rgb(16, 40, 65);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+}
+
+.nav-link{
+    color: white;
+    margin-right: -4px;
+    text-decoration: none;
+    width: 20%;
+    display: inline-block;
+}
+
+.text-Center{
+    text-align: center;
+}
+
+.red-text{
+    color: rgb(175, 0, 0);
+}
+
+.blue-text{
+    color: rgba(29, 71, 150, 0.932)
+}
+
+.green-text{
+    color: rgb(24, 109, 24);
+}
+
+.main-container{
+    min-height: 100vh;
+}
+
+.card{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.692), 0 1px 2px rgba(0, 0, 0, 0.603);
+}
+
+.threeD{
+    text-shadow: 1px 13px 5px rgb(171, 168, 168);
+}
